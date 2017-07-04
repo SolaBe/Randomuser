@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Randomuser</string>
+    <string name="gender">Gender:</string>
+    <string name="login">Login:</string>
+    <string name="registered">Registered:</string>
+    <string name="born">Born:</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="street">Street:</string>
+    <string name="city">City:</string>
+    <string name="state">State:</string>
+    <string name="nationality">Nationality:</string>
+</resources>
